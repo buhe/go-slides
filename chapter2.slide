@@ -113,7 +113,7 @@ rune 示例:
 
 * 创建自己定义的类型
 
-	type Person struc {
+	type Person struct {
 		Name string
 		Age int
 		parent string
